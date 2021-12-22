@@ -6,7 +6,7 @@ Author: Anamika Poyil
 ## Create an Example Package in R 
 
 Package: FARS
-GitHub:  https://github.com/EnriquePH/FARS
+GitHub:  https://github.com/anamikapoyil/FARS
 
 ## Data Source
 
